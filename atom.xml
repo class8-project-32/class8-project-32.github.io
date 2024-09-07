@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mr_Onion的博客</title>
   
-  <subtitle>Mr_Onion</subtitle>
+  <subtitle>By Mr_Onion</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -41,14 +41,14 @@
     <link href="http://example.com/2024/09/06/%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/2024/09/06/%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/</id>
     <published>2024-09-06T10:22:47.000Z</published>
-    <updated>2024-09-06T10:29:08.953Z</updated>
+    <updated>2024-09-07T01:52:01.995Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="关于这个博客"><a href="#关于这个博客" class="headerlink" title="关于这个博客"></a>关于这个博客</h1><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>这个博客使用的是 <a href="https://hexo.io/">Hexo</a> + <a href="https://github.com/theme-next/hexo-theme-next">NexT</a> 搭建而成，托管在 <a href="https://github.com/">GitHub</a> 上。</p><p>别问我为什么这段话这么像AI写的，因为这段就是AI写的（理直气壮）。</p><h2 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h2><ul><li><a href="https://hexo.io/">Hexo</a></li><li><a href="https://github.com/theme-next/hexo-theme-next">NexT</a></li><li><a href="https://github.com/">GitHub</a></li></ul><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><ul><li><a href="https://hydro.ac/home/messages?target=27764">hydro</a></li><li><a href="https://www.luogu.com.cn/user/1065962">洛谷</a></li><li><a href="https://github.com/SuperUseryjh">GitHub</a></li></ul><h2 id="版权声明"><a href="#版权声明" class="headerlink" title="版权声明"></a>版权声明</h2><p>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> 许可协议。转载请注明出处！</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>这个博客使用的是 <a href="https://hexo.io/">Hexo</a> + <a href="https://github.com/theme-next/hexo-theme-next">NexT</a> 搭建而成，托管在 <a href="https://github.com/">GitHub</a> 上。</p><p>别问我为什么这段话这么像AI写的，因为这段就是AI写的（理直气壮）。</p><h2 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h2><ul><li><a href="https://hexo.io/">Hexo</a></li><li><a href="https://github.com/theme-next/hexo-theme-next">NexT</a></li><li><a href="https://github.com/">GitHub</a></li></ul><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><ul><li><a href="https://hydro.ac/home/messages?target=27764">hydro</a></li><li><a href="https://www.luogu.com.cn/user/1065962">洛谷</a></li><li><a href="https://github.com/SuperUseryjh">GitHub</a></li></ul><h2 id="版权声明"><a href="#版权声明" class="headerlink" title="版权声明"></a>版权声明</h2><p>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> 许可协议。转载请注明出处！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;关于这个博客&quot;&gt;&lt;a href=&quot;#关于这个博客&quot; class=&quot;headerlink&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;关于这个博客&lt;/h1&gt;&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;</summary>
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;这个博客使用的是 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt; + &lt;a href=&quot;https://github</summary>
       
     
     
@@ -63,7 +63,7 @@
     <link href="http://example.com/2024/09/05/first-blog/"/>
     <id>http://example.com/2024/09/05/first-blog/</id>
     <published>2024-09-05T14:15:48.000Z</published>
-    <updated>2024-09-05T14:19:05.611Z</updated>
+    <updated>2024-09-07T01:52:10.254Z</updated>
     
     <content type="html"><![CDATA[<p>好吧，我能说啥呢？<br>我是<a href="https://www.luogu.com.cn/user/1065962">Mr_Onion</a>，某位洛谷运势连续两天诸事不宜的OIer。</p><span id="more"></span><p>这个博客站点是用hexo搭建的，主题就没改过，默认的。<br>我打算用这个博客来记录一些C++学习笔记，以及一些生活琐事。<br>希望我能坚持下来吧。</p>]]></content>
     
