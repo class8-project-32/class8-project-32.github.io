@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Mr_Onion的博客</title>
+  <title>道法项目-暂存站</title>
   
-  <subtitle>By Mr_Onion</subtitle>
+  
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
   <updated>2024-09-20T10:50:06.243Z</updated>
   <id>http://example.com/</id>
-  
-  <author>
-    <name>Mr_Onion</name>
-    
-  </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
