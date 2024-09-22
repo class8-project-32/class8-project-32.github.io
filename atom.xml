@@ -3,18 +3,18 @@
   <title>道法项目-暂存站</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://class8-project-32.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://class8-project-32.github.io/"/>
   <updated>2024-09-22T11:08:22.742Z</updated>
-  <id>http://example.com/</id>
+  <id>https://class8-project-32.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>关于我们</title>
-    <link href="http://example.com/2024/09/22/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/"/>
-    <id>http://example.com/2024/09/22/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</id>
+    <link href="https://class8-project-32.github.io/2024/09/22/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/"/>
+    <id>https://class8-project-32.github.io/2024/09/22/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</id>
     <published>2024-09-22T10:31:06.000Z</published>
     <updated>2024-09-22T11:08:22.742Z</updated>
     
@@ -34,8 +34,8 @@
   
   <entry>
     <title>临时成果</title>
-    <link href="http://example.com/2024/09/20/%E4%B8%B4%E6%97%B6%E6%88%90%E6%9E%9C/"/>
-    <id>http://example.com/2024/09/20/%E4%B8%B4%E6%97%B6%E6%88%90%E6%9E%9C/</id>
+    <link href="https://class8-project-32.github.io/2024/09/20/%E4%B8%B4%E6%97%B6%E6%88%90%E6%9E%9C/"/>
+    <id>https://class8-project-32.github.io/2024/09/20/%E4%B8%B4%E6%97%B6%E6%88%90%E6%9E%9C/</id>
     <published>2024-09-20T13:14:48.000Z</published>
     <updated>2024-09-22T10:26:35.879Z</updated>
     
