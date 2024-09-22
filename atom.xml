@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-21T12:30:09.375Z</updated>
+  <updated>2024-09-22T10:26:35.879Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -16,18 +16,16 @@
     <link href="http://example.com/2024/09/20/%E4%B8%B4%E6%97%B6%E6%88%90%E6%9E%9C/"/>
     <id>http://example.com/2024/09/20/%E4%B8%B4%E6%97%B6%E6%88%90%E6%9E%9C/</id>
     <published>2024-09-20T13:14:48.000Z</published>
-    <updated>2024-09-21T12:30:09.375Z</updated>
+    <updated>2024-09-22T10:26:35.879Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="项目分工"><a href="#项目分工" class="headerlink" title="项目分工"></a>项目分工</h2><ul><li>组长：施奕俊</li><li>网站项目：施奕俊、姚靖昊</li><li>实地考察：未定</li><li>PPT制作：未定</li></ul><h2 id="相关内容"><a href="#相关内容" class="headerlink" title="相关内容"></a>相关内容</h2><p>本项目基于<a href="https://hexo.io/zh-cn/">Hexo框架</a>，使用Markdown语法编写，使用Git进行版本控制。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="项目分工"><a href="#项目分工" class="headerlink" title="项目分工"></a>项目分工</h2><p>组员：施奕俊、黄浩哲、朱漾笙、陈烁、赵泽堃、葛奕钦、姚靖昊、沈计、卢玬默、韩泽霖、杨薪楷、章弘毅</p><ul><li>组长：施奕俊</li><li>网站项目：施奕俊、姚靖昊、沈计</li><li>实地考察：黄浩哲、朱漾笙</li><li>PPT制作：陈烁、葛奕钦</li><li>视频剪辑：赵泽堃、杨薪楷</li><li>网络搜索：章弘毅</li><li>建模：卢玬默、韩泽霖</li></ul><h2 id="相关内容"><a href="#相关内容" class="headerlink" title="相关内容"></a>相关内容</h2><p>本项目基于<a href="https://hexo.io/zh-cn/">Hexo框架</a>，使用Markdown语法编写，使用Git进行版本控制。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;项目分工&quot;&gt;&lt;a href=&quot;#项目分工&quot; class=&quot;headerlink&quot; title=&quot;项目分工&quot;&gt;&lt;/a&gt;项目分工&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;组长：施奕俊&lt;/li&gt;
-&lt;li&gt;网站项目：施奕俊、姚靖昊&lt;/li&gt;
-&lt;li&gt;实地考察：未定&lt;/li&gt;
-&lt;li&gt;P</summary>
+    <summary type="html">&lt;h2 id=&quot;项目分工&quot;&gt;&lt;a href=&quot;#项目分工&quot; class=&quot;headerlink&quot; title=&quot;项目分工&quot;&gt;&lt;/a&gt;项目分工&lt;/h2&gt;&lt;p&gt;组员：施奕俊、黄浩哲、朱漾笙、陈烁、赵泽堃、葛奕钦、姚靖昊、沈计、卢玬默、韩泽霖、杨薪楷、章弘毅&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;</summary>
       
     
     
