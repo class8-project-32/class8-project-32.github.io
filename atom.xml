@@ -6,10 +6,31 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-22T10:26:35.879Z</updated>
+  <updated>2024-09-22T11:08:22.742Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于我们</title>
+    <link href="http://example.com/2024/09/22/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/"/>
+    <id>http://example.com/2024/09/22/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</id>
+    <published>2024-09-22T10:31:06.000Z</published>
+    <updated>2024-09-22T11:08:22.742Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="我们是谁"><a href="#我们是谁" class="headerlink" title="我们是谁"></a>我们是谁</h2><p>我们是来自于上海市向明初级中学2022级8班的团队，致力于制作优秀的网页以介绍各个红色场馆。</p><h2 id="关于这个网页"><a href="#关于这个网页" class="headerlink" title="关于这个网页"></a>关于这个网页</h2><p>本网站基于<a href="https://hexo.io/">Hexo</a>制作，主题为默认的Landscape主题，托管于<a href="https://pages.github.com/">GitHub Pages</a></p><h2 id="更多相关"><a href="#更多相关" class="headerlink" title="更多相关"></a>更多相关</h2><p><a href="https://class8-project-32.github.io/2024/09/20/%E4%B8%B4%E6%97%B6%E6%88%90%E6%9E%9C/">【小组分工】</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;我们是谁&quot;&gt;&lt;a href=&quot;#我们是谁&quot; class=&quot;headerlink&quot; title=&quot;我们是谁&quot;&gt;&lt;/a&gt;我们是谁&lt;/h2&gt;&lt;p&gt;我们是来自于上海市向明初级中学2022级8班的团队，致力于制作优秀的网页以介绍各个红色场馆。&lt;/p&gt;
+&lt;h2 id=&quot;关于这</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>临时成果</title>
