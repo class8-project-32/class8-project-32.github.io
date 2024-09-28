@@ -6,25 +6,24 @@
   <link href="https://class8-project-32.github.io/atom.xml" rel="self"/>
   
   <link href="https://class8-project-32.github.io/"/>
-  <updated>2024-09-26T12:28:45.480Z</updated>
+  <updated>2024-09-28T03:37:51.769Z</updated>
   <id>https://class8-project-32.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>图片测试</title>
+    <title>测试</title>
     <link href="https://class8-project-32.github.io/2024/09/20/%E4%B8%B4%E6%97%B6%E6%88%90%E6%9E%9C/"/>
     <id>https://class8-project-32.github.io/2024/09/20/%E4%B8%B4%E6%97%B6%E6%88%90%E6%9E%9C/</id>
     <published>2024-09-20T13:14:48.000Z</published>
-    <updated>2024-09-26T12:28:45.480Z</updated>
+    <updated>2024-09-28T03:37:51.769Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://class8-project-32.github.io/about/">About Us</a></p><p><img src="/images/1.jpg" alt="神金对联" title="神经对联"></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="./about/">About Us</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://class8-project-32.github.io/about/&quot;&gt;About Us&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/1.jpg&quot; alt=&quot;神金对联&quot; title=&quot;神经对联&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;./about/&quot;&gt;About Us&lt;/a&gt;&lt;/p&gt;
 </summary>
       
     
